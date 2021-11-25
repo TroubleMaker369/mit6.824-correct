@@ -1,2 +1,5 @@
 # mit6.824-correct
 6.824
+本代码没有mepreduce 
+完成了
+2a,2b,2c,3a,3b
